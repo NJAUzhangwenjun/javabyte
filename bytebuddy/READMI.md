@@ -23,7 +23,7 @@
 # fsdg
 
 
-很高兴成为你的助手！下面是你需要实现的mock框架代码和使用范例：
+下面是你需要实现的mock框架代码和使用范例：
 
 ```java
 import net.bytebuddy.ByteBuddy;
